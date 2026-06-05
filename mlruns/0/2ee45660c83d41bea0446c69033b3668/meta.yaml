@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pusdatin-orkes/Documents/Workflow-CI/mlruns/0/2ee45660c83d41bea0446c69033b3668/artifacts
+end_time: 1780649568615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ee45660c83d41bea0446c69033b3668
+run_name: masked-shoat-730
+run_uuid: 2ee45660c83d41bea0446c69033b3668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780649562792
+status: 3
+tags: []
+user_id: pusdatin-orkes
